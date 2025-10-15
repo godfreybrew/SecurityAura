@@ -249,3 +249,15 @@ Thanks to all [contributors](https://github.com/sbilly/awesome-security/graphs/c
 - [frida](https://github.com/frida/frida) - Dynamic instrumentation toolkit for developers, reverse-engineers, and security researchers.
 - [UDcide](https://github.com/UDcide/udcide) - Android Malware Behavior Editor.
 - [reFlutter](https://github.com/ptswarm/reFlutter) - Flutter Reverse Engineering Framework
+
+### Forensics
+
+- [grr](https://github.com/google/grr) - GRR Rapid Response is an incident response framework focused on remote live forensics.
+- [Volatility](https://github.com/volatilityfoundation/volatility) - Python based memory extraction and analysis framework.
+- [mig](http://mig.mozilla.org/) - MIG is a platform to perform investigative surgery on remote endpoints. It enables investigators to obtain information from large numbers of systems in parallel, thus accelerating investigation of incidents and day-to-day operations security.
+- [ir-rescue](https://github.com/diogo-fernan/ir-rescue) - *ir-rescue* is a Windows Batch script and a Unix Bash script to comprehensively collect host forensic data during incident response.
+- [Logdissect](https://github.com/dogoncouch/logdissect) - CLI utility and Python API for analyzing log files and other data.
+- [Meerkat](https://github.com/TonyPhipps/Meerkat) - PowerShell-based Windows artifact collection for threat hunting and incident response.
+- [Rekall](https://github.com/google/rekall) - The Rekall Framework is a completely open collection of tools, implemented in Python under the Apache and GNU General Public License, for the extraction and analysis of digital artifacts computer systems.
+- [LiME](https://github.com/504ensicsLabs/LiME.git) - Linux Memory Extractor
+- [Maigret](https://github.com/soxoj/maigret) - Maigret collect a dossier on a person by username only, checking for accounts on a huge number of sites and gathering all the available information from web pages.
