@@ -285,3 +285,14 @@ Thanks to all [contributors](https://github.com/sbilly/awesome-security/graphs/c
 - [PhishStats](https://phishstats.info/) - Phishing Statistics with search for IP, domain and website title.
 - [Threat Jammer](https://threatjammer.com) - REST API service that allows developers, security engineers, and other IT professionals to access curated threat intelligence data from a variety of sources.
 - [Cyberowl](https://github.com/karimhabush/cyberowl) - A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
+
+## Social Engineering
+
+- [Gophish](https://getgophish.com/) - An Open-Source Phishing Framework.
+
+## Web
+
+### Organization
+
+- [OWASP](http://www.owasp.org) - The Open Web Application Security Project (OWASP) is a 501(c)(3) worldwide not-for-profit charitable organization focused on improving the security of software.
+- [Portswigger](https://portswigger.net) - PortSwigger offers tools for web application security, testing & scanning. Choose from a wide range of security tools & identify the very latest vulnerabilities.
