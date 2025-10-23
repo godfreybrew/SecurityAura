@@ -394,3 +394,11 @@ Provided data: IPv4 hosts, sub/domains/whois, ports/banners/protocols, technolog
 
 * [shellfirm](https://github.com/kaplanelad/shellfirm) - It is a handy utility to help avoid running dangerous commands with an extra approval step. You will immediately get a small prompt challenge that will double verify your action when risky patterns are detected.
 * [shellclear](https://github.com/rusty-ferris-club/shellclear) - It helps you to Secure your shell history commands by finding sensitive commands in your all history commands and allowing you to clean them.
+
+## Operating Systems
+
+### Privacy & Security
+
+- [Qubes OS](https://www.qubes-os.org/) - Qubes OS is a free and open-source security-oriented operating system meant for single-user desktop computing.
+- [Whonix](https://www.whonix.org) - Operating System designed for anonymity.
+- [Tails OS](https://tails.boum.org/) - Tails is a portable operating system that protects against surveillance and censorship.
